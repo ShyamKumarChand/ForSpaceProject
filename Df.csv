@@ -1,0 +1,6 @@
+,Age,Gender,Data_types,Data_Structures,"('Age', 'Gender', 'Data_types', 'Data_Structures')"
+0,25,M,int,list,30
+1,26,F,float,tuple,m
+2,27,M,Complex,dict,None Type
+3,28,F,String,set,None
+4,29,M,bool,array,IEEE
